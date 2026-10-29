@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 0 10px;
+}
+
+.book { border: 1px solid #ccc; border-radius: 8px; padding: 10px; margin: 10px 0; background: #fafafa; }
+.favori { border: 2px solid #d4a017; background: #fff8e1; }
+.badge-favori { background: #d4a017; color: white; font-size: 12px; padding: 2px 8px; border-radius: 10px; }
+.loading { color: #2563eb; font-style: italic; }
+form { background: #f3f4f6; padding: 10px; border-radius: 8px; margin-bottom: 15px; }
+form p { margin: 6px 0; }
+nav { margin-bottom: 15px; }
+nav a, .book a { margin-right: 10px; }
